@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To validate in parcel shipping</description>
+   <name>addressValidationTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f499c27b-e7e0-4f1c-82d8-fb05184e3a32</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+{
+  "keywordFileContentHash": "CCBCBCBB2B29950E901C340001F9DF07",
+  "keywordClasses": [
+    {
+      "name": "generalValidation.getExcelData",
+      "keywordMethods": [
+        {
+          "name": "getExcelpath",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Get Excel input data\r\n\t */"
+        },
+        {
+          "name": "clickElement",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Click element\r\n\t * @param to Katalon test object\r\n\t */"
+        },
+        {
+          "name": "getHtmlTableRows",
+          "parameters": [
+            {
+              "name": "table",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "outerTagName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Get all rows of HTML table\r\n\t * @param table Katalon test object represent for HTML table\r\n\t * @param outerTagName outer tag name of TR tag, usually is TBODY\r\n\t * @return All rows inside HTML table\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
